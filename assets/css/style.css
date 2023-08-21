@@ -1,7 +1,6 @@
 .circle{
-    height: 700px;
-    width: 100px;
+    height: 200;
+    width: 200;
     border-radius: 50%;
-    background-color: brown;
-    text-align: center;
+    background-color: blueviolet;
 }
